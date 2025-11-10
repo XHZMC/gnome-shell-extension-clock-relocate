@@ -1,0 +1,16 @@
+{
+  "uuid": "clock-relocate@xhzmc.github.io",
+  "name": "Clock and Notification Relocator",
+  "description": "Move clock to right side before quick settings, and move notification banner to top-right corner",
+  "description-zh_CN": "将时钟移动到右侧快速设置之前，并将通知横幅移动到屏幕右上角",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "version": 2,
+  "url": "https://github.com/XHZMC/gnome-shell-extension-clock-relocate",
+  "gettext-domain": "clock-relocate"
+}
